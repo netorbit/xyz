@@ -1,4 +1,20 @@
-how r u ranjith
-hi ranjith 
+akhil1709.t@gmail.com
+murali.amkr@gmail.com
+pavanreddy1119@gmail.com
+gsivaranjith@gmail.com
+sowmyareddy522@gmail.com
+chandupatlasrikanthreddy@gmail.com
+velasirianudeep7@gmail.com
+kvsa92@gmail.com
 
-hello
+
+[root@localhost ranjith]# yum install git
+Loaded plugins: langpacks, product-id, search-disabled-repos, subscription-
+              : manager
+This system is not registered to Red Hat Subscription Management. You can use subscription-manager to register.
+There are no enabled repos.
+ Run "yum repolist all" to see the repos you have.
+ To enable Red Hat Subscription Management repositories:
+     subscription-manager repos --enable <repo>
+ To enable custom repositories:
+     yum-config-manager --enable <repo>
